@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tutorial on SVW Thunk&#39;d</title>
+    <link>https://stewart123579.github.io/blog/categories/tutorial/</link>
+    <description>Recent content in tutorial on SVW Thunk&#39;d</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Apr 2022 17:09:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Find most recently changed files of a type</title>
+      <link>https://stewart123579.github.io/blog/posts/code/find-most-recently-changed-files-of-a-type/</link>
+      <pubDate>Fri, 29 Apr 2022 17:09:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/code/find-most-recently-changed-files-of-a-type/</guid>
+      <description>&lt;p&gt;How would you find the &lt;code&gt;.org&lt;/code&gt; (or &lt;code&gt;.pdf&lt;/code&gt;, &lt;code&gt;.doc&lt;/code&gt;, &amp;hellip;) file you created the most
+recently?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
