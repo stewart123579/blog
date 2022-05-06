@@ -6,14 +6,50 @@
     <description>Recent content in Tags on SVW Thunk&#39;d</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Apr 2022 17:09:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 May 2022 18:52:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>100daysToOffload</title>
       <link>https://stewart123579.github.io/blog/tags/100daystooffload/</link>
-      <pubDate>Fri, 29 Apr 2022 17:09:00 +1000</pubDate>
+      <pubDate>Thu, 05 May 2022 18:52:00 +1000</pubDate>
       
       <guid>https://stewart123579.github.io/blog/tags/100daystooffload/</guid>
       <description>I&amp;rsquo;ve decided to attempt the #100DaysToOffload challenge.</description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://stewart123579.github.io/blog/tags/git/</link>
+      <pubDate>Thu, 05 May 2022 18:52:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>humour</title>
+      <link>https://stewart123579.github.io/blog/tags/humour/</link>
+      <pubDate>Thu, 05 May 2022 18:52:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/humour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emacs</title>
+      <link>https://stewart123579.github.io/blog/tags/emacs/</link>
+      <pubDate>Thu, 05 May 2022 18:24:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>orgmode</title>
+      <link>https://stewart123579.github.io/blog/tags/orgmode/</link>
+      <pubDate>Thu, 05 May 2022 18:24:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/orgmode/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -26,20 +62,137 @@
     </item>
     
     <item>
-      <title>emacs</title>
-      <link>https://stewart123579.github.io/blog/tags/emacs/</link>
-      <pubDate>Thu, 28 Apr 2022 18:57:00 +1000</pubDate>
+      <title>lisp</title>
+      <link>https://stewart123579.github.io/blog/tags/lisp/</link>
+      <pubDate>Sat, 15 Feb 2020 10:29:42 +1000</pubDate>
       
-      <guid>https://stewart123579.github.io/blog/tags/emacs/</guid>
+      <guid>https://stewart123579.github.io/blog/tags/lisp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>git</title>
-      <link>https://stewart123579.github.io/blog/tags/git/</link>
-      <pubDate>Thu, 28 Apr 2022 18:57:00 +1000</pubDate>
+      <title>techical</title>
+      <link>https://stewart123579.github.io/blog/tags/techical/</link>
+      <pubDate>Sat, 15 Feb 2020 10:29:42 +1000</pubDate>
       
-      <guid>https://stewart123579.github.io/blog/tags/git/</guid>
+      <guid>https://stewart123579.github.io/blog/tags/techical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vifortech</title>
+      <link>https://stewart123579.github.io/blog/tags/vifortech/</link>
+      <pubDate>Sat, 15 Feb 2020 10:29:42 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/vifortech/</guid>
+      <description>Reposts from the Vifortech Solutions blog.</description>
+    </item>
+    
+    <item>
+      <title>Australia</title>
+      <link>https://stewart123579.github.io/blog/tags/australia/</link>
+      <pubDate>Sun, 27 Jan 2019 20:43:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/australia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoreLogic</title>
+      <link>https://stewart123579.github.io/blog/tags/corelogic/</link>
+      <pubDate>Sun, 27 Jan 2019 20:43:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/corelogic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forecast</title>
+      <link>https://stewart123579.github.io/blog/tags/forecast/</link>
+      <pubDate>Sun, 27 Jan 2019 20:43:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/forecast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moodys</title>
+      <link>https://stewart123579.github.io/blog/tags/moodys/</link>
+      <pubDate>Sun, 27 Jan 2019 20:43:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/moodys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>real estate</title>
+      <link>https://stewart123579.github.io/blog/tags/real-estate/</link>
+      <pubDate>Sun, 27 Jan 2019 20:43:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/real-estate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://stewart123579.github.io/blog/tags/security/</link>
+      <pubDate>Tue, 24 Oct 2017 20:13:58 +1100</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tls</title>
+      <link>https://stewart123579.github.io/blog/tags/tls/</link>
+      <pubDate>Tue, 24 Oct 2017 20:13:58 +1100</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/tls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>risk management</title>
+      <link>https://stewart123579.github.io/blog/tags/risk-management/</link>
+      <pubDate>Thu, 05 Oct 2017 10:20:47 +1100</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/risk-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>investment</title>
+      <link>https://stewart123579.github.io/blog/tags/investment/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/investment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>presentation</title>
+      <link>https://stewart123579.github.io/blog/tags/presentation/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q Group</title>
+      <link>https://stewart123579.github.io/blog/tags/q-group/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/q-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>disasters</title>
+      <link>https://stewart123579.github.io/blog/tags/disasters/</link>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/disasters/</guid>
       <description></description>
     </item>
     

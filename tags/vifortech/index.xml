@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vifortech on SVW Thunk&#39;d</title>
+    <link>https://stewart123579.github.io/blog/tags/vifortech/</link>
+    <description>Recent content in Vifortech on SVW Thunk&#39;d</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Feb 2020 10:29:42 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/tags/vifortech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Mars Rover Tech Challenge (in Lisp!) Part 2</title>
+      <link>https://stewart123579.github.io/blog/posts/lisp-mars-rover-2/</link>
+      <pubDate>Sat, 15 Feb 2020 10:29:42 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/lisp-mars-rover-2/</guid>
+      <description>The Mars Rover Tech Challenge (in Lisp!) Part 2 at Vifortech Solutions - Blog</description>
+    </item>
+    
+    <item>
+      <title>The Mars Rover Tech Challenge (in Lisp!) Part 1</title>
+      <link>https://stewart123579.github.io/blog/posts/lisp-mars-rover/</link>
+      <pubDate>Sat, 08 Feb 2020 15:00:04 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/lisp-mars-rover/</guid>
+      <description>The Mars Rover Tech Challenge (in Lisp!) Part 1 at Vifortech Solutions - Blog</description>
+    </item>
+    
+    <item>
+      <title>Real Estate price forecasts in the media</title>
+      <link>https://stewart123579.github.io/blog/posts/price-forecasts-comparison/</link>
+      <pubDate>Sun, 27 Jan 2019 20:43:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/price-forecasts-comparison/</guid>
+      <description>Real Estate price forecasts in the media at Vifortech Solutions - Blog</description>
+    </item>
+    
+    <item>
+      <title>Fixing Emacs&#39; unknown and untrusted authority TLS error</title>
+      <link>https://stewart123579.github.io/blog/posts/emacs-tls-fix/</link>
+      <pubDate>Tue, 24 Oct 2017 20:13:58 +1100</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/emacs-tls-fix/</guid>
+      <description>Fixing Emacs&#39; unknown and untrusted authority TLS error at Vifortech Solutions - Blog</description>
+    </item>
+    
+    <item>
+      <title>The flu as an analogy for risk management</title>
+      <link>https://stewart123579.github.io/blog/posts/flu-risk-management/</link>
+      <pubDate>Thu, 05 Oct 2017 10:20:47 +1100</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/flu-risk-management/</guid>
+      <description>The flu as an analogy for risk management at Vifortech Solutions - Blog</description>
+    </item>
+    
+    <item>
+      <title>Real estate as an investment</title>
+      <link>https://stewart123579.github.io/blog/posts/real-estate-as-an-investment/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/real-estate-as-an-investment/</guid>
+      <description>Real estate as an investment at Vifortech Solutions - Blog</description>
+    </item>
+    
+    <item>
+      <title>Disasters and Real Estate</title>
+      <link>https://stewart123579.github.io/blog/posts/disasters-and-real-estate/</link>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/disasters-and-real-estate/</guid>
+      <description>Disasters and Real Estate at Vifortech Solutions - Blog</description>
+    </item>
+    
+    <item>
+      <title>Presenting at the 2017 Q Group Colloquium</title>
+      <link>https://stewart123579.github.io/blog/posts/2017-qgroup-colloquium/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/2017-qgroup-colloquium/</guid>
+      <description>Presenting at the 2017 Q Group Colloquium at Vifortech Solutions - Blog</description>
+    </item>
+    
+    <item>
+      <title>Honesty in forecasting</title>
+      <link>https://stewart123579.github.io/blog/posts/honesty-in-forecasting/</link>
+      <pubDate>Mon, 29 May 2017 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/honesty-in-forecasting/</guid>
+      <description>Honesty in forecasting at Vifortech Solutions - Blog</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,36 @@
     <description>Recent content on SVW Thunk&#39;d</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Apr 2022 17:09:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 May 2022 18:52:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amend git commits to remove added files</title>
+      <link>https://stewart123579.github.io/blog/posts/code/commit-amend-remove-added/</link>
+      <pubDate>Thu, 05 May 2022 18:52:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/code/commit-amend-remove-added/</guid>
+      <description>&lt;p&gt;Removing files you just added and committed to git is easy with &lt;code&gt;git commit --amend&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pretentious? Moi?</title>
+      <link>https://stewart123579.github.io/blog/posts/pretentious-moi/</link>
+      <pubDate>Thu, 05 May 2022 18:52:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/pretentious-moi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting yasnippet to work with Org mode</title>
+      <link>https://stewart123579.github.io/blog/posts/emacs/yasnippet-and-orgmode/</link>
+      <pubDate>Thu, 05 May 2022 18:24:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/emacs/yasnippet-and-orgmode/</guid>
+      <description>There are various discussions around the conflict between Org Mode and yasnippet and how to fix it.
+This is how I got them to play nicely together.
+(use-package yasnippet :init (defun yas/org-very-safe-expand () (let ((yas/fallback-behavior &amp;#39;return-nil)) (yas/expand))) :hook ((emacs-lisp-mode . yas-minor-mode) (python-mode . yas-minor-mode) (org-mode . yas-minor-mode) (org-mode . (lambda () (make-variable-buffer-local &amp;#39;yas/trigger-key) (setq yas/trigger-key [tab]) (add-to-list &amp;#39;org-tab-first-hook &amp;#39;yas/org-very-safe-expand) (define-key yas/keymap [tab] &amp;#39;yas/next-field)))) :config (setq-default yas-snippet-dirs `(,(expand-file-name &amp;#34;snippets/&amp;#34; user-emacs-directory))) (yas-reload-all)) GNU Emacs 28.</description>
+    </item>
+    
     <item>
       <title>Find most recently changed files of a type</title>
       <link>https://stewart123579.github.io/blog/posts/code/find-most-recently-changed-files-of-a-type/</link>
@@ -24,6 +53,87 @@ recently?&lt;/p&gt;</description>
       
       <guid>https://stewart123579.github.io/blog/posts/my-blog/</guid>
       <description>&lt;p&gt;This is my blog.  The design isn&amp;rsquo;t revolutionary.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Mars Rover Tech Challenge (in Lisp!) Part 2</title>
+      <link>https://stewart123579.github.io/blog/posts/lisp-mars-rover-2/</link>
+      <pubDate>Sat, 15 Feb 2020 10:29:42 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/lisp-mars-rover-2/</guid>
+      <description>The Mars Rover Tech Challenge (in Lisp!) Part 2 at Vifortech Solutions - Blog</description>
+    </item>
+    
+    <item>
+      <title>The Mars Rover Tech Challenge (in Lisp!) Part 1</title>
+      <link>https://stewart123579.github.io/blog/posts/lisp-mars-rover/</link>
+      <pubDate>Sat, 08 Feb 2020 15:00:04 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/lisp-mars-rover/</guid>
+      <description>The Mars Rover Tech Challenge (in Lisp!) Part 1 at Vifortech Solutions - Blog</description>
+    </item>
+    
+    <item>
+      <title>Real Estate price forecasts in the media</title>
+      <link>https://stewart123579.github.io/blog/posts/price-forecasts-comparison/</link>
+      <pubDate>Sun, 27 Jan 2019 20:43:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/price-forecasts-comparison/</guid>
+      <description>Real Estate price forecasts in the media at Vifortech Solutions - Blog</description>
+    </item>
+    
+    <item>
+      <title>Fixing Emacs&#39; unknown and untrusted authority TLS error</title>
+      <link>https://stewart123579.github.io/blog/posts/emacs-tls-fix/</link>
+      <pubDate>Tue, 24 Oct 2017 20:13:58 +1100</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/emacs-tls-fix/</guid>
+      <description>Fixing Emacs&#39; unknown and untrusted authority TLS error at Vifortech Solutions - Blog</description>
+    </item>
+    
+    <item>
+      <title>The flu as an analogy for risk management</title>
+      <link>https://stewart123579.github.io/blog/posts/flu-risk-management/</link>
+      <pubDate>Thu, 05 Oct 2017 10:20:47 +1100</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/flu-risk-management/</guid>
+      <description>The flu as an analogy for risk management at Vifortech Solutions - Blog</description>
+    </item>
+    
+    <item>
+      <title>Real estate as an investment</title>
+      <link>https://stewart123579.github.io/blog/posts/real-estate-as-an-investment/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/real-estate-as-an-investment/</guid>
+      <description>Real estate as an investment at Vifortech Solutions - Blog</description>
+    </item>
+    
+    <item>
+      <title>Disasters and Real Estate</title>
+      <link>https://stewart123579.github.io/blog/posts/disasters-and-real-estate/</link>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/disasters-and-real-estate/</guid>
+      <description>Disasters and Real Estate at Vifortech Solutions - Blog</description>
+    </item>
+    
+    <item>
+      <title>Presenting at the 2017 Q Group Colloquium</title>
+      <link>https://stewart123579.github.io/blog/posts/2017-qgroup-colloquium/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/2017-qgroup-colloquium/</guid>
+      <description>Presenting at the 2017 Q Group Colloquium at Vifortech Solutions - Blog</description>
+    </item>
+    
+    <item>
+      <title>Honesty in forecasting</title>
+      <link>https://stewart123579.github.io/blog/posts/honesty-in-forecasting/</link>
+      <pubDate>Mon, 29 May 2017 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/honesty-in-forecasting/</guid>
+      <description>Honesty in forecasting at Vifortech Solutions - Blog</description>
     </item>
     
     

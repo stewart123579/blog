@@ -19,7 +19,9 @@
 <meta name=msapplication-TileColor content="#2e2e33">
 <noscript>
 <style>#theme-toggle,.top-link{display:none}</style>
-</noscript><meta property="og:title" content="This is my blog">
+</noscript>
+<link rel=canonical href=https://stewart123579.github.io/blog/posts/my-blog/>
+<meta property="og:title" content="This is my blog">
 <meta property="og:description" content="This is my blog.  The design isn&rsquo;t revolutionary.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://stewart123579.github.io/blog/posts/my-blog/"><meta property="article:section" content="posts">
@@ -29,7 +31,7 @@
 <meta name=twitter:title content="This is my blog">
 <meta name=twitter:description content="This is my blog.  The design isn&rsquo;t revolutionary.">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"https://stewart123579.github.io/blog/posts/"},{"@type":"ListItem","position":2,"name":"This is my blog","item":"https://stewart123579.github.io/blog/posts/my-blog/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"This is my blog","name":"This is my blog","description":"This is my blog. The design isn\u0026rsquo;t revolutionary.\n","keywords":["git","emacs","100daysToOffload"],"articleBody":"This is my blog. The design isn’t revolutionary.\nIt is just a group of static pages - thanks to the Hugo engine. The theme is PaperMod.\nI write all of my posts (and almost everything else) using Emacs. In particular I use Org Mode, and I’ve recently discovered the useful ox-hugo minor mode to export the pages for Hugo.\nTesting locally I test locally, including looking at drafts with the following command:\nhugo server --buildDrafts --navigateToChanged If I’m feeling adventurous and want to test on another machine I’ll try something like\nhugo server --buildDrafts --navigateToChanged --baseURL http://$(uname -n) --bind 0.0.0.0 I’m faking the baseURL here to be my local hostname, so I can test on mobile for example. If my (or your) hostname doesn’t resolve, the command ipconfig getifaddr en0 will give the local IP address.\nThis also opens up the site to everyone on the network, so probably not wise to do this on a public WiFi.\nExport the HTML for public consumption hugo --cleanDestinationDir Depending on how I’m working I’ll either use magit (by preference) in Emacs or just git on the command line to commit the changes and then push to the wider world.\n","wordCount":"197","inLanguage":"en","datePublished":"2022-04-28T18:57:00+10:00","dateModified":"2022-04-28T18:57:00+10:00","author":[{"@type":"Person","name":"Stewart Wright"}],"mainEntityOfPage":{"@type":"WebPage","@id":"https://stewart123579.github.io/blog/posts/my-blog/"},"publisher":{"@type":"Organization","name":"SVW Thunk'd","logo":{"@type":"ImageObject","url":"https://stewart123579.github.io/blog/favicon.ico"}}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"This is my blog","name":"This is my blog","description":"This is my blog. The design isn\u0026rsquo;t revolutionary.\n","keywords":["git","emacs","100daysToOffload"],"articleBody":"This is my blog. The design isn’t revolutionary.\nIt is just a group of static pages - thanks to the Hugo engine. The theme is PaperMod.\nI write all of my posts (and almost everything else) using Emacs. In particular I use Org Mode, and I’ve recently discovered the useful ox-hugo minor mode to export the pages for Hugo.\nMy plan is to replicate all of my other writings here. So you will see links/references to, amongst others, the Vifortech Solutions blog (see the Vifortech category).\nTesting locally I test locally, including looking at drafts with the following command:\nhugo server --buildDrafts --navigateToChanged If I’m feeling adventurous and want to test on another machine I’ll try something like\nhugo server --buildDrafts --navigateToChanged --baseURL http://$(uname -n) --bind 0.0.0.0 I’m faking the baseURL here to be my local hostname, so I can test on mobile for example. If my (or your) hostname doesn’t resolve, the command ipconfig getifaddr en0 will give the local IP address.\nThis also opens up the site to everyone on the network, so probably not wise to do this on a public WiFi.\nExport the HTML for public consumption hugo --cleanDestinationDir Depending on how I’m working I’ll either use magit (by preference) in Emacs or just git on the command line to commit the changes and then push to the wider world.\n","wordCount":"224","inLanguage":"en","datePublished":"2022-04-28T18:57:00+10:00","dateModified":"2022-04-28T18:57:00+10:00","author":[{"@type":"Person","name":"Stewart Wright"}],"mainEntityOfPage":{"@type":"WebPage","@id":"https://stewart123579.github.io/blog/posts/my-blog/"},"publisher":{"@type":"Organization","name":"SVW Thunk'd","logo":{"@type":"ImageObject","url":"https://stewart123579.github.io/blog/favicon.ico"}}}</script>
 </head>
 <body class=dark id=top>
 <script>localStorage.getItem("pref-theme")==="light"&&document.body.classList.remove('dark')</script>
@@ -73,7 +75,7 @@
 <h1 class=post-title>
 This is my blog
 </h1>
-<div class=post-meta><span title="2022-04-28 18:57:00 +1000 AEST">April 28, 2022</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Stewart Wright
+<div class=post-meta><span title="2022-04-28 18:57:00 +1000 AEST">April 28, 2022</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Stewart Wright
 </div>
 </header> <div class=toc>
 <details>
@@ -95,6 +97,9 @@ This is my blog
 <p>I write all of my posts (and almost everything else) using <a href=https://www.gnu.org/software/emacs/>Emacs</a>. In particular
 I use <a href=https://orgmode.org/>Org Mode</a>, and I&rsquo;ve recently discovered the useful <a href=https://ox-hugo.scripter.co/>ox-hugo</a> minor mode to
 export the pages for Hugo.</p>
+<p>My plan is to replicate all of my other writings here. So you will see
+links/references to, amongst others, the <a href=https://blog.vifortech.com>Vifortech Solutions blog</a> (see the
+<a href=/categories/vifortech/>Vifortech</a> category).</p>
 <h2 id=testing-locally>Testing locally<a hidden class=anchor aria-hidden=true href=#testing-locally>#</a></h2>
 <p>I test locally, including looking at drafts with the following command:</p>
 <div class=highlight><pre tabindex=0 style=background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-shell data-lang=shell>hugo server --buildDrafts --navigateToChanged
@@ -121,6 +126,11 @@ just <a href=https://git-scm.com/>git</a> on the command line to commit the chan
 <br>
 <span>Find most recently changed files of a type</span>
 </a>
+<a class=next href=https://stewart123579.github.io/blog/posts/lisp-mars-rover-2/>
+<span class=title>Next Page »</span>
+<br>
+<span>The Mars Rover Tech Challenge (in Lisp!) Part 2</span>
+</a>
 </nav>
 <div class=share-buttons>
 <a target=_blank rel="noopener noreferrer" aria-label="share This is my blog on twitter" href="https://twitter.com/intent/tweet/?text=This%20is%20my%20blog&url=https%3a%2f%2fstewart123579.github.io%2fblog%2fposts%2fmy-blog%2f&hashtags=git%2cemacs%2c100daysToOffload"><svg viewBox="0 0 512 512"><path d="M449.446.0C483.971.0 512 28.03 512 62.554v386.892C512 483.97 483.97 512 449.446 512H62.554c-34.524.0-62.554-28.03-62.554-62.554V62.554c0-34.524 28.029-62.554 62.554-62.554h386.892zM195.519 424.544c135.939.0 210.268-112.643 210.268-210.268.0-3.218.0-6.437-.153-9.502 14.406-10.421 26.973-23.448 36.935-38.314-13.18 5.824-27.433 9.809-42.452 11.648 15.326-9.196 26.973-23.602 32.49-40.92-14.252 8.429-30.038 14.56-46.896 17.931-13.487-14.406-32.644-23.295-53.946-23.295-40.767.0-73.87 33.104-73.87 73.87.0 5.824.613 11.494 1.992 16.858-61.456-3.065-115.862-32.49-152.337-77.241-6.284 10.881-9.962 23.601-9.962 37.088.0 25.594 13.027 48.276 32.95 61.456-12.107-.307-23.448-3.678-33.41-9.196v.92c0 35.862 25.441 65.594 59.311 72.49-6.13 1.686-12.72 2.606-19.464 2.606-4.751.0-9.348-.46-13.946-1.38 9.349 29.426 36.628 50.728 68.965 51.341-25.287 19.771-57.164 31.571-91.8 31.571-5.977.0-11.801-.306-17.625-1.073 32.337 21.15 71.264 33.41 112.95 33.41z"/></svg>
@@ -139,7 +149,8 @@ just <a href=https://git-scm.com/>git</a> on the command line to commit the chan
 </footer>
 </article>
 </main>
-<footer class=footer>
+<a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
+</a><footer class=footer>
 <span>&copy; 2022 <a href=https://stewart123579.github.io/blog/>SVW Thunk'd</a></span>
 <span> |
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> |
@@ -149,8 +160,6 @@ just <a href=https://git-scm.com/>git</a> on the command line to commit the chan
 <a href=https://ox-hugo.scripter.co/ rel=noopener target=_blank>ox-hugo</a>
 </span>
 </footer>
-<a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
-</a>
 <script>let menu=document.getElementById('menu');menu&&(menu.scrollLeft=localStorage.getItem("menu-scroll-position"),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)}),document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener("click",function(b){b.preventDefault();var a=this.getAttribute("href").substr(1);window.matchMedia('(prefers-reduced-motion: reduce)').matches?document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(a)}']`).scrollIntoView({behavior:"smooth"}),a==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${a}`)})})</script>
 <script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script>
 <script>document.getElementById("theme-toggle").addEventListener("click",()=>{document.body.className.includes("dark")?(document.body.classList.remove('dark'),localStorage.setItem("pref-theme",'light')):(document.body.classList.add('dark'),localStorage.setItem("pref-theme",'dark'))})</script>
