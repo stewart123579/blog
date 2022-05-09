@@ -6,7 +6,25 @@
     <description>Recent content in 100daysToOffload on SVW Thunk&#39;d</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2022 18:52:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/tags/100daystooffload/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2022 20:18:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/tags/100daystooffload/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Show files ignored by git</title>
+      <link>https://stewart123579.github.io/blog/posts/code/show-files-ignored-by-git/</link>
+      <pubDate>Mon, 09 May 2022 20:18:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/code/show-files-ignored-by-git/</guid>
+      <description>&lt;p&gt;Sometimes you just want to see the files that are being ignored by &lt;a href=&#34;https://git-scm.com/&#34;&gt;git&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Delete files not being tracked by git</title>
+      <link>https://stewart123579.github.io/blog/posts/code/delete-files-not-being-tracked-by-git/</link>
+      <pubDate>Sat, 07 May 2022 15:46:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/code/delete-files-not-being-tracked-by-git/</guid>
+      <description>&lt;p&gt;Removing untracked files from the working tree is easy with &lt;code&gt;git-clean&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Amend git commits to remove added files</title>
       <link>https://stewart123579.github.io/blog/posts/code/commit-amend-remove-added/</link>
