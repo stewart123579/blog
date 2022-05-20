@@ -6,14 +6,42 @@
     <description>Recent content in Tags on SVW Thunk&#39;d</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 May 2022 17:40:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 May 2022 19:18:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>100daysToOffload</title>
       <link>https://stewart123579.github.io/blog/tags/100daystooffload/</link>
-      <pubDate>Thu, 19 May 2022 17:40:00 +1000</pubDate>
+      <pubDate>Fri, 20 May 2022 19:18:00 +1000</pubDate>
       
       <guid>https://stewart123579.github.io/blog/tags/100daystooffload/</guid>
       <description>I&amp;rsquo;ve decided to attempt the #100DaysToOffload challenge.</description>
+    </item>
+    
+    <item>
+      <title>emacs</title>
+      <link>https://stewart123579.github.io/blog/tags/emacs/</link>
+      <pubDate>Fri, 20 May 2022 19:18:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Org Mode</title>
+      <link>https://stewart123579.github.io/blog/tags/orgmode/</link>
+      <pubDate>Fri, 20 May 2022 19:18:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/orgmode/</guid>
+      <description>Org Mode is a way of keeping notes, authoring documents, computational notebooks, literate programming, maintaining to-do lists, planning projects, and more — in a fast and effective plain text system.
+I use it for writing this blog (and this one), writing code, keeping all my notes (including mathematics and charts) and of course managing my task lists.</description>
+    </item>
+    
+    <item>
+      <title>pim</title>
+      <link>https://stewart123579.github.io/blog/tags/pim/</link>
+      <pubDate>Fri, 20 May 2022 19:18:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/pim/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -59,25 +87,6 @@
       
       <guid>https://stewart123579.github.io/blog/tags/humour/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>emacs</title>
-      <link>https://stewart123579.github.io/blog/tags/emacs/</link>
-      <pubDate>Thu, 05 May 2022 18:24:00 +1000</pubDate>
-      
-      <guid>https://stewart123579.github.io/blog/tags/emacs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Org Mode</title>
-      <link>https://stewart123579.github.io/blog/tags/orgmode/</link>
-      <pubDate>Thu, 05 May 2022 18:24:00 +1000</pubDate>
-      
-      <guid>https://stewart123579.github.io/blog/tags/orgmode/</guid>
-      <description>Org Mode is a way of keeping notes, authoring documents, computational notebooks, literate programming, maintaining to-do lists, planning projects, and more — in a fast and effective plain text system.
-I use it for writing this blog (and this one), writing code, keeping all my notes (including mathematics and charts) and of course managing my task lists.</description>
     </item>
     
     <item>
