@@ -6,7 +6,16 @@
     <description>Recent content in lisp on SVW Thunk&#39;d</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2020 10:29:42 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/tags/lisp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 May 2022 17:57:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/tags/lisp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My screensaver</title>
+      <link>https://stewart123579.github.io/blog/posts/code/my-screensaver/</link>
+      <pubDate>Wed, 25 May 2022 17:57:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/code/my-screensaver/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been asked what my screensaver means&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>The Mars Rover Tech Challenge (in Lisp!) Part 2</title>
       <link>https://stewart123579.github.io/blog/posts/lisp-mars-rover-2/</link>
