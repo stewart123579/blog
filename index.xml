@@ -6,7 +6,16 @@
     <description>Recent content on SVW Thunk&#39;d</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 May 2022 17:57:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 May 2022 08:41:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TIL: !clhs at DuckDuckGo</title>
+      <link>https://stewart123579.github.io/blog/posts/code/til-clhs-at-duckduckgo/</link>
+      <pubDate>Thu, 26 May 2022 08:41:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/code/til-clhs-at-duckduckgo/</guid>
+      <description>&lt;p&gt;Use DuckDuckGo to search the &lt;a href=&#34;https://duckduckgo.com/?t=ffab&amp;amp;q=common+lisp+hyperspec&amp;amp;atb=v310-1&amp;amp;ia=web&#34;&gt;Common Lisp Hyperspec&lt;/a&gt; with &lt;code&gt;!clhs TERM&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>My screensaver</title>
       <link>https://stewart123579.github.io/blog/posts/code/my-screensaver/</link>
