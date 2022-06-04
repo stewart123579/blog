@@ -3,30 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://stewart123579.github.io/blog/tags/100daystooffload/</loc>
-    <lastmod>2022-05-26T08:41:00+10:00</lastmod>
+    <lastmod>2022-06-04T00:00:00+10:00</lastmod>
   </url><url>
     <loc>https://stewart123579.github.io/blog/categories/</loc>
-    <lastmod>2022-05-26T08:41:00+10:00</lastmod>
+    <lastmod>2022-06-04T00:00:00+10:00</lastmod>
+  </url><url>
+    <loc>https://stewart123579.github.io/blog/categories/clues/</loc>
+    <lastmod>2022-06-04T00:00:00+10:00</lastmod>
   </url><url>
     <loc>https://stewart123579.github.io/blog/posts/code/</loc>
-    <lastmod>2022-05-26T08:41:00+10:00</lastmod>
+    <lastmod>2022-06-04T00:00:00+10:00</lastmod>
   </url><url>
     <loc>https://stewart123579.github.io/blog/categories/code/</loc>
-    <lastmod>2022-05-26T08:41:00+10:00</lastmod>
+    <lastmod>2022-06-04T00:00:00+10:00</lastmod>
+  </url><url>
+    <loc>https://stewart123579.github.io/blog/tags/hugo/</loc>
+    <lastmod>2022-06-04T00:00:00+10:00</lastmod>
   </url><url>
     <loc>https://stewart123579.github.io/blog/tags/lisp/</loc>
-    <lastmod>2022-05-26T08:41:00+10:00</lastmod>
+    <lastmod>2022-06-04T00:00:00+10:00</lastmod>
   </url><url>
-    <loc>https://stewart123579.github.io/blog/categories/lisp/</loc>
-    <lastmod>2022-05-26T08:41:00+10:00</lastmod>
+    <loc>https://stewart123579.github.io/blog/posts/code/listing-page-categories-in-hugo/</loc>
+    <lastmod>2022-06-04T00:00:00+10:00</lastmod>
+  </url><url>
+    <loc>https://stewart123579.github.io/blog/posts/clues/loops-in-lisp/</loc>
+    <lastmod>2022-06-04T00:00:00+10:00</lastmod>
   </url><url>
     <loc>https://stewart123579.github.io/blog/posts/</loc>
-    <lastmod>2022-05-26T08:41:00+10:00</lastmod>
+    <lastmod>2022-06-04T00:00:00+10:00</lastmod>
   </url><url>
     <loc>https://stewart123579.github.io/blog/</loc>
-    <lastmod>2022-05-26T08:41:00+10:00</lastmod>
+    <lastmod>2022-06-04T00:00:00+10:00</lastmod>
   </url><url>
     <loc>https://stewart123579.github.io/blog/tags/</loc>
+    <lastmod>2022-06-04T00:00:00+10:00</lastmod>
+  </url><url>
+    <loc>https://stewart123579.github.io/blog/categories/tutorial/</loc>
+    <lastmod>2022-06-04T00:00:00+10:00</lastmod>
+  </url><url>
+    <loc>https://stewart123579.github.io/blog/posts/clues/quicklisp/update-list-of-local-projects/</loc>
+    <lastmod>2022-06-03T00:00:00+10:00</lastmod>
+  </url><url>
+    <loc>https://stewart123579.github.io/blog/categories/lisp/</loc>
     <lastmod>2022-05-26T08:41:00+10:00</lastmod>
   </url><url>
     <loc>https://stewart123579.github.io/blog/posts/code/til-clhs-at-duckduckgo/</loc>
@@ -36,9 +54,6 @@
     <lastmod>2022-05-25T17:57:00+10:00</lastmod>
   </url><url>
     <loc>https://stewart123579.github.io/blog/posts/code/counting-tagged-pages-in-hugo/</loc>
-    <lastmod>2022-05-23T18:15:00+10:00</lastmod>
-  </url><url>
-    <loc>https://stewart123579.github.io/blog/tags/hugo/</loc>
     <lastmod>2022-05-23T18:15:00+10:00</lastmod>
   </url><url>
     <loc>https://stewart123579.github.io/blog/posts/emacs/</loc>
@@ -84,9 +99,6 @@
     <lastmod>2022-05-09T20:18:00+10:00</lastmod>
   </url><url>
     <loc>https://stewart123579.github.io/blog/posts/code/show-files-ignored-by-git/</loc>
-    <lastmod>2022-05-09T20:18:00+10:00</lastmod>
-  </url><url>
-    <loc>https://stewart123579.github.io/blog/categories/tutorial/</loc>
     <lastmod>2022-05-09T20:18:00+10:00</lastmod>
   </url><url>
     <loc>https://stewart123579.github.io/blog/posts/code/delete-files-not-being-tracked-by-git/</loc>
@@ -183,6 +195,8 @@
     <lastmod>2017-05-29T00:00:00+10:00</lastmod>
   </url><url>
     <loc>https://stewart123579.github.io/blog/archives/</loc>
+  </url><url>
+    <loc>https://stewart123579.github.io/blog/tags/clues/</loc>
   </url><url>
     <loc>https://stewart123579.github.io/blog/search/</loc>
   </url>

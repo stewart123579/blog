@@ -6,7 +6,7 @@
 <title>Org Mode | SVW Thunk'd</title>
 <meta name=keywords content>
 <meta name=description content="Articles by Stewart V. Wright PhD.">
-<meta name=author content="Stewart Wright">
+<meta name=author content="Stewart V. Wright">
 <link rel=canonical href=https://stewart123579.github.io/blog/tags/orgmode/>
 <link crossorigin=anonymous href=/blog/assets/css/stylesheet.min.b4e19c453811e60acfec1f00c15ac2be1c53f6ab90187e684358ce7faaf48bab.css integrity="sha256-tOGcRTgR5grP7B8AwVrCvhxT9quQGH5oQ1jOf6r0i6s=" rel="preload stylesheet" as=style>
 <link rel=icon href=https://stewart123579.github.io/blog/favicon.ico>
@@ -85,7 +85,7 @@ notes (including mathematics and charts) and of course managing my task lists.</
 <p>Including beautifully rendered equations is easy in Org Mode.
 ...</p>
 </div>
-<footer class=entry-footer><span title="2022-05-20 19:18:00 +1000 AEST">May 20, 2022</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Stewart Wright</footer>
+<footer class=entry-footer><span title="2022-05-20 19:18:00 +1000 AEST">May 20, 2022</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Stewart V. Wright</footer>
 <a class=entry-link aria-label="post link to Including equations in my notes" href=https://stewart123579.github.io/blog/posts/emacs/including-equations-in-my-notes/></a>
 </article>
 <article class="post-entry tag-entry">
@@ -98,7 +98,7 @@ notes (including mathematics and charts) and of course managing my task lists.</
 This is how I got them to play nicely together.
 (use-package yasnippet :init (defun yas/org-very-safe-expand () (let ((yas/fallback-behavior 'return-nil)) (yas/expand))) :hook ((emacs-lisp-mode . yas-minor-mode) (python-mode . yas-minor-mode) (org-mode . yas-minor-mode) (org-mode . (lambda () (make-variable-buffer-local 'yas/trigger-key) (setq yas/trigger-key [tab]) (add-to-list 'org-tab-first-hook 'yas/org-very-safe-expand) (define-key yas/keymap [tab] 'yas/next-field)))) :config (setq-default yas-snippet-dirs `(,(expand-file-name "snippets/" user-emacs-directory))) (yas-reload-all)) GNU Emacs 28....</p>
 </div>
-<footer class=entry-footer><span title="2022-05-05 18:24:00 +1000 AEST">May 5, 2022</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Stewart Wright</footer>
+<footer class=entry-footer><span title="2022-05-05 18:24:00 +1000 AEST">May 5, 2022</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Stewart V. Wright</footer>
 <a class=entry-link aria-label="post link to Getting yasnippet to work with Org mode" href=https://stewart123579.github.io/blog/posts/emacs/yasnippet-and-orgmode/></a>
 </article>
 </main>
