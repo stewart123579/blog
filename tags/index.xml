@@ -6,15 +6,34 @@
     <description>Recent content in Tags on SVW Thunk&#39;d</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jun 2022 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>100daysToOffload</title>
       <link>https://stewart123579.github.io/blog/tags/100daystooffload/</link>
-      <pubDate>Sat, 04 Jun 2022 00:00:00 +1000</pubDate>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +1000</pubDate>
       
       <guid>https://stewart123579.github.io/blog/tags/100daystooffload/</guid>
       <description>I&amp;rsquo;ve decided to attempt the #100DaysToOffload challenge.
-I&amp;rsquo;ve written 16 pages of the 100 page goal.</description>
+I&amp;rsquo;ve written 17 pages of the 100 page goal.</description>
+    </item>
+    
+    <item>
+      <title>clues</title>
+      <link>https://stewart123579.github.io/blog/tags/clues/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/clues/</guid>
+      <description>There are my various CLUEs (Common Lisp Useful Examples/Exemplars) posts.
+The orgmode (i.e. text) file that they are generated from is available: https://github.com/stewart123579/clues</description>
+    </item>
+    
+    <item>
+      <title>lisp</title>
+      <link>https://stewart123579.github.io/blog/tags/lisp/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/tags/lisp/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -23,15 +42,6 @@ I&amp;rsquo;ve written 16 pages of the 100 page goal.</description>
       <pubDate>Sat, 04 Jun 2022 00:00:00 +1000</pubDate>
       
       <guid>https://stewart123579.github.io/blog/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lisp</title>
-      <link>https://stewart123579.github.io/blog/tags/lisp/</link>
-      <pubDate>Sat, 04 Jun 2022 00:00:00 +1000</pubDate>
-      
-      <guid>https://stewart123579.github.io/blog/tags/lisp/</guid>
       <description></description>
     </item>
     
@@ -223,16 +233,6 @@ I use it for writing this blog (and this one), writing code, keeping all my note
       
       <guid>https://stewart123579.github.io/blog/tags/disasters/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>clues</title>
-      <link>https://stewart123579.github.io/blog/tags/clues/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://stewart123579.github.io/blog/tags/clues/</guid>
-      <description>There are my various CLUEs (Common Lisp Useful Examples/Exemplars) posts.
-The orgmode (i.e. text) file that they are generated from is available: https://github.com/stewart123579/clues</description>
     </item>
     
   </channel>
