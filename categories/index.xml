@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>Vifortech</title>
+      <title>Vifortech posts</title>
       <link>https://stewart123579.github.io/blog/categories/vifortech/</link>
       <pubDate>Thu, 19 May 2022 17:40:00 +1000</pubDate>
       
@@ -68,6 +68,24 @@
       
       <guid>https://stewart123579.github.io/blog/categories/finance/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>AI / ML in common lisp</title>
+      <link>https://stewart123579.github.io/blog/categories/ai-ml-lisp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/categories/ai-ml-lisp/</guid>
+      <description>Implementing AI and Machine Learning tools in common lisp.</description>
+    </item>
+    
+    <item>
+      <title>Lisp versus X</title>
+      <link>https://stewart123579.github.io/blog/categories/lisp-vs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/categories/lisp-vs/</guid>
+      <description>A different perspective is always valuable.</description>
     </item>
     
   </channel>
