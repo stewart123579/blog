@@ -6,14 +6,32 @@
     <description>Recent content in Categories on SVW Thunk&#39;d</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI / ML in common lisp</title>
+      <link>https://stewart123579.github.io/blog/categories/ai-ml-lisp/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/categories/ai-ml-lisp/</guid>
+      <description>&lt;p&gt;Implementing AI and Machine Learning tools in common lisp.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>code</title>
       <link>https://stewart123579.github.io/blog/categories/code/</link>
-      <pubDate>Mon, 06 Jun 2022 00:00:00 +1000</pubDate>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +1000</pubDate>
       
       <guid>https://stewart123579.github.io/blog/categories/code/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Lisp versus X</title>
+      <link>https://stewart123579.github.io/blog/categories/lisp-vs/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/categories/lisp-vs/</guid>
+      <description>A different perspective is always valuable.</description>
     </item>
     
     <item>
@@ -68,24 +86,6 @@
       
       <guid>https://stewart123579.github.io/blog/categories/finance/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>AI / ML in common lisp</title>
-      <link>https://stewart123579.github.io/blog/categories/ai-ml-lisp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://stewart123579.github.io/blog/categories/ai-ml-lisp/</guid>
-      <description>Implementing AI and Machine Learning tools in common lisp.</description>
-    </item>
-    
-    <item>
-      <title>Lisp versus X</title>
-      <link>https://stewart123579.github.io/blog/categories/lisp-vs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://stewart123579.github.io/blog/categories/lisp-vs/</guid>
-      <description>A different perspective is always valuable.</description>
     </item>
     
   </channel>
