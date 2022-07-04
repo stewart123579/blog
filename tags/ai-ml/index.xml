@@ -6,7 +6,16 @@
     <description>Recent content in AI / ML on SVW Thunk&#39;d</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/tags/ai-ml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/tags/ai-ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>magicl contributions</title>
+      <link>https://stewart123579.github.io/blog/posts/code/magicl-contributions/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/code/magicl-contributions/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s exciting that &lt;a href=&#34;https://github.com/quil-lang/magicl/commits?author=stewart123579&#34;&gt;my contributions&lt;/a&gt; to &lt;a href=&#34;https://github.com/quil-lang/magicl&#34;&gt;magicl&lt;/a&gt; have been merged into the main branch.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Making (pure) lisp functions faster</title>
       <link>https://stewart123579.github.io/blog/posts/code/making-pure-lisp-functions-faster/</link>
