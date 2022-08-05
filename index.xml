@@ -6,7 +6,17 @@
     <description>Recent content on SVW Thunk&#39;d</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Aug 2022 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first machine learning model</title>
+      <link>https://stewart123579.github.io/blog/posts/my-first-machine-learning-model/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/my-first-machine-learning-model/</guid>
+      <description>&lt;p&gt;I can remember the first time that I built a machine learning model - I used it
+to solve a real problem.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>magicl contributions</title>
       <link>https://stewart123579.github.io/blog/posts/code/magicl-contributions/</link>
@@ -68,7 +78,7 @@ always do.&lt;/p&gt;</description>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +1000</pubDate>
       
       <guid>https://stewart123579.github.io/blog/posts/clues/removing-functions-and-variables-in-lisp/</guid>
-      <description>How to remove definitions and why the lisp namespaces are preferable to other languages&#39; approaches.</description>
+      <description>How to remove definitions and why the lisp namespaces are preferable to other languages&amp;rsquo; approaches.</description>
     </item>
     
     <item>
@@ -254,7 +264,7 @@ recently?&lt;/p&gt;</description>
       <pubDate>Tue, 24 Oct 2017 20:13:58 +1100</pubDate>
       
       <guid>https://stewart123579.github.io/blog/posts/emacs-tls-fix/</guid>
-      <description>Fixing Emacs&#39; unknown and untrusted authority TLS error at Vifortech Solutions - Blog</description>
+      <description>Fixing Emacs&amp;rsquo; unknown and untrusted authority TLS error at Vifortech Solutions - Blog</description>
     </item>
     
     <item>
