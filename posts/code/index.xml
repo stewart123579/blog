@@ -6,7 +6,16 @@
     <description>Recent content in Code on SVW Thunk&#39;d</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/posts/code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/posts/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trimming and re-encoding video files</title>
+      <link>https://stewart123579.github.io/blog/posts/code/trimming-and-re-encoding-video-files/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/code/trimming-and-re-encoding-video-files/</guid>
+      <description>&amp;hellip;using FFmpeg</description>
+    </item>
+    
     <item>
       <title>magicl contributions</title>
       <link>https://stewart123579.github.io/blog/posts/code/magicl-contributions/</link>

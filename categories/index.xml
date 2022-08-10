@@ -6,7 +6,25 @@
     <description>Recent content in Categories on SVW Thunk&#39;d</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>code</title>
+      <link>https://stewart123579.github.io/blog/categories/code/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/categories/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://stewart123579.github.io/blog/categories/tutorial/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/categories/tutorial/</guid>
+      <description>A list of things that I forget how to do and I search for, repeatedly.</description>
+    </item>
+    
     <item>
       <title>AI / ML in common lisp</title>
       <link>https://stewart123579.github.io/blog/categories/ai-ml-lisp/</link>
@@ -17,30 +35,12 @@
     </item>
     
     <item>
-      <title>code</title>
-      <link>https://stewart123579.github.io/blog/categories/code/</link>
-      <pubDate>Mon, 04 Jul 2022 00:00:00 +1000</pubDate>
-      
-      <guid>https://stewart123579.github.io/blog/categories/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lisp versus X</title>
       <link>https://stewart123579.github.io/blog/categories/lisp-vs/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +1000</pubDate>
       
       <guid>https://stewart123579.github.io/blog/categories/lisp-vs/</guid>
       <description>A different perspective is always valuable.</description>
-    </item>
-    
-    <item>
-      <title>Tutorials</title>
-      <link>https://stewart123579.github.io/blog/categories/tutorial/</link>
-      <pubDate>Mon, 06 Jun 2022 00:00:00 +1000</pubDate>
-      
-      <guid>https://stewart123579.github.io/blog/categories/tutorial/</guid>
-      <description>A list of things that I forget how to do and I search for, repeatedly.</description>
     </item>
     
     <item>
