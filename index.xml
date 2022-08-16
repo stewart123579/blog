@@ -6,7 +6,25 @@
     <description>Recent content on SVW Thunk&#39;d</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating ebooks</title>
+      <link>https://stewart123579.github.io/blog/posts/emacs/creating-ebooks/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/emacs/creating-ebooks/</guid>
+      <description>Creating ebooks in Emacs with orgmode is easy</description>
+    </item>
+    
+    <item>
+      <title>Reading books in Emacs</title>
+      <link>https://stewart123579.github.io/blog/posts/emacs/reading-books-in-emacs/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/emacs/reading-books-in-emacs/</guid>
+      <description>My Emacs configuration to allow reading EPUBs</description>
+    </item>
+    
     <item>
       <title>Trimming and re-encoding video files</title>
       <link>https://stewart123579.github.io/blog/posts/code/trimming-and-re-encoding-video-files/</link>
