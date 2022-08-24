@@ -6,7 +6,28 @@
     <description>Recent content in emacs on SVW Thunk&#39;d</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Copying images from EPUBs</title>
+      <link>https://stewart123579.github.io/blog/posts/emacs/copying-images-from-epubs/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/emacs/copying-images-from-epubs/</guid>
+      <description>I was reading a book this week and I wanted to use one of the images in a presentation.
+I&amp;rsquo;m, unsurprisingly, using Emacs to read the book. So I hit ? to see what options I had - but there was not one for saving images.
+I used my DDG-foo1 to search for &amp;ldquo;emacs nov.el extract images from epub&amp;rdquo; and found a reddit link suggesting raising an issue. The current repo for nov.</description>
+    </item>
+    
+    <item>
+      <title>Emacs</title>
+      <link>https://stewart123579.github.io/blog/posts/emacs/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/emacs/</guid>
+      <description>Emacs posts
+If you want to see how I configure my Emacs, click here .</description>
+    </item>
+    
     <item>
       <title>Creating ebooks</title>
       <link>https://stewart123579.github.io/blog/posts/emacs/creating-ebooks/</link>
@@ -14,16 +35,6 @@
       
       <guid>https://stewart123579.github.io/blog/posts/emacs/creating-ebooks/</guid>
       <description>Creating ebooks in Emacs with orgmode is easy</description>
-    </item>
-    
-    <item>
-      <title>Emacs</title>
-      <link>https://stewart123579.github.io/blog/posts/emacs/</link>
-      <pubDate>Tue, 16 Aug 2022 00:00:00 +1000</pubDate>
-      
-      <guid>https://stewart123579.github.io/blog/posts/emacs/</guid>
-      <description>Emacs posts
-If you want to see how I configure my Emacs, click here .</description>
     </item>
     
     <item>
