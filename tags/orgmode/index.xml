@@ -6,7 +6,16 @@
     <description>Recent content in Org Mode on SVW Thunk&#39;d</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/tags/orgmode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Apr 2023 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/tags/orgmode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs on Windows: Getting tramp to work</title>
+      <link>https://stewart123579.github.io/blog/posts/emacs/emacs-on-windows-getting-tramp-to-work/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +1000</pubDate>
+      
+      <guid>https://stewart123579.github.io/blog/posts/emacs/emacs-on-windows-getting-tramp-to-work/</guid>
+      <description>Using Windows is&amp;hellip;a challenge.  Running tramp in emacs, especially so.</description>
+    </item>
+    
     <item>
       <title>Creating ebooks</title>
       <link>https://stewart123579.github.io/blog/posts/emacs/creating-ebooks/</link>
