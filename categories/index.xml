@@ -4,89 +4,72 @@
     <title>Categories on SVW Thunk&#39;d</title>
     <link>https://stewart123579.github.io/blog/categories/</link>
     <description>Recent content in Categories on SVW Thunk&#39;d</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Apr 2023 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Sep 2025 00:00:00 +1000</lastBuildDate>
+    <atom:link href="https://stewart123579.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>emacs</title>
+      <title>Emacs</title>
       <link>https://stewart123579.github.io/blog/categories/emacs/</link>
-      <pubDate>Mon, 24 Apr 2023 00:00:00 +1000</pubDate>
-      
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +1000</pubDate>
       <guid>https://stewart123579.github.io/blog/categories/emacs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Tutorials</title>
       <link>https://stewart123579.github.io/blog/categories/tutorial/</link>
       <pubDate>Mon, 24 Apr 2023 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/categories/tutorial/</guid>
-      <description>A list of things that I forget how to do and I search for, repeatedly.</description>
+      <description>&lt;p&gt;A list of things that I forget how to do and I search for, repeatedly.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>code</title>
+      <title>Code</title>
       <link>https://stewart123579.github.io/blog/categories/code/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/categories/code/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AI / ML in common lisp</title>
       <link>https://stewart123579.github.io/blog/categories/ai-ml-lisp/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/categories/ai-ml-lisp/</guid>
       <description>&lt;p&gt;Implementing AI and Machine Learning tools in common lisp.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lisp versus X</title>
       <link>https://stewart123579.github.io/blog/categories/lisp-vs/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/categories/lisp-vs/</guid>
       <description>A different perspective is always valuable.</description>
     </item>
-    
     <item>
-      <title>real estate</title>
+      <title>Real Estate</title>
       <link>https://stewart123579.github.io/blog/categories/real-estate/</link>
       <pubDate>Thu, 19 May 2022 17:40:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/categories/real-estate/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Vifortech posts</title>
       <link>https://stewart123579.github.io/blog/categories/vifortech/</link>
       <pubDate>Thu, 19 May 2022 17:40:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/categories/vifortech/</guid>
-      <description>Reposts from the Vifortech Solutions blog.</description>
+      <description>&lt;p&gt;Reposts from the &lt;a href=&#34;https://blog.vifortech.com&#34;&gt;Vifortech Solutions blog&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>technical</title>
+      <title>Technical</title>
       <link>https://stewart123579.github.io/blog/categories/technical/</link>
       <pubDate>Sat, 15 Feb 2020 10:29:42 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/categories/technical/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>finance</title>
+      <title>Finance</title>
       <link>https://stewart123579.github.io/blog/categories/finance/</link>
       <pubDate>Thu, 05 Oct 2017 10:20:47 +1100</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/categories/finance/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

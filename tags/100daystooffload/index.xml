@@ -4,315 +4,271 @@
     <title>100daysToOffload on SVW Thunk&#39;d</title>
     <link>https://stewart123579.github.io/blog/tags/100daystooffload/</link>
     <description>Recent content in 100daysToOffload on SVW Thunk&#39;d</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Apr 2023 00:00:00 +1000</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/tags/100daystooffload/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Apr 2023 00:00:00 +1000</lastBuildDate>
+    <atom:link href="https://stewart123579.github.io/blog/tags/100daystooffload/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emacs on Windows: Getting tramp to work</title>
       <link>https://stewart123579.github.io/blog/posts/emacs/emacs-on-windows-getting-tramp-to-work/</link>
       <pubDate>Mon, 24 Apr 2023 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/emacs/emacs-on-windows-getting-tramp-to-work/</guid>
       <description>Using Windows is .. a challenge.  Running tramp in emacs, especially so.</description>
     </item>
-    
     <item>
       <title>Using Mastodon for blog comments</title>
       <link>https://stewart123579.github.io/blog/posts/using-mastodon-for-blog-comments/</link>
       <pubDate>Mon, 24 Apr 2023 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/using-mastodon-for-blog-comments/</guid>
       <description>I&amp;rsquo;ve decided to use the fediverse for blog comments, rather than disqus.  Here&amp;rsquo;s how I did it.</description>
     </item>
-    
     <item>
       <title>Emacs site-lisp fix for MacOS</title>
       <link>https://stewart123579.github.io/blog/posts/emacs/emacs-site-lisp-fix-for-macos/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/emacs/emacs-site-lisp-fix-for-macos/</guid>
       <description>Emacs For MacOS (installed via Homebrew) doesn&amp;rsquo;t use /usr/local/share/emacs/site-lisp.  Let&amp;rsquo;s fix that.</description>
     </item>
-    
     <item>
       <title>PSA - re-encode your MOV files</title>
       <link>https://stewart123579.github.io/blog/posts/psa-re-encode-your-mov-files/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/psa-re-encode-your-mov-files/</guid>
       <description>&lt;p&gt;Today&amp;rsquo;s public service announcement&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Copying images from EPUBs</title>
       <link>https://stewart123579.github.io/blog/posts/emacs/copying-images-from-epubs/</link>
       <pubDate>Thu, 25 Aug 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/emacs/copying-images-from-epubs/</guid>
       <description>&lt;p&gt;I was reading a book this week and I wanted to use one of the images in a
 presentation.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Book Week 2022</title>
       <link>https://stewart123579.github.io/blog/posts/book-week-2022/</link>
       <pubDate>Wed, 24 Aug 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/book-week-2022/</guid>
       <description>&lt;p&gt;You&amp;rsquo;re saying it wrong.  Or maybe not.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Creating ebooks</title>
       <link>https://stewart123579.github.io/blog/posts/emacs/creating-ebooks/</link>
       <pubDate>Tue, 16 Aug 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/emacs/creating-ebooks/</guid>
       <description>Creating ebooks in Emacs with orgmode is easy</description>
     </item>
-    
     <item>
       <title>Reading books in Emacs</title>
       <link>https://stewart123579.github.io/blog/posts/emacs/reading-books-in-emacs/</link>
       <pubDate>Mon, 15 Aug 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/emacs/reading-books-in-emacs/</guid>
       <description>My Emacs configuration to allow reading EPUBs</description>
     </item>
-    
     <item>
       <title>Trimming and re-encoding video files</title>
       <link>https://stewart123579.github.io/blog/posts/code/trimming-and-re-encoding-video-files/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/code/trimming-and-re-encoding-video-files/</guid>
       <description>&amp;hellip;using FFmpeg</description>
     </item>
-    
     <item>
       <title>My first machine learning model</title>
       <link>https://stewart123579.github.io/blog/posts/my-first-machine-learning-model/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/my-first-machine-learning-model/</guid>
       <description>&lt;p&gt;I can remember the first time that I built a machine learning model - I used it
 to solve a real problem.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>magicl contributions</title>
       <link>https://stewart123579.github.io/blog/posts/code/magicl-contributions/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/code/magicl-contributions/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s exciting that &lt;a href=&#34;https://github.com/quil-lang/magicl/commits?author=stewart123579&#34;&gt;my contributions&lt;/a&gt; to &lt;a href=&#34;https://github.com/quil-lang/magicl&#34;&gt;magicl&lt;/a&gt; have been merged into the main branch.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Making (pure) lisp functions faster</title>
       <link>https://stewart123579.github.io/blog/posts/code/making-pure-lisp-functions-faster/</link>
       <pubDate>Fri, 24 Jun 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/code/making-pure-lisp-functions-faster/</guid>
       <description>&lt;p&gt;What does optimised pure lisp look like?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Calculating a DOT product</title>
       <link>https://stewart123579.github.io/blog/posts/code/calculating-a-dot-product/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/code/calculating-a-dot-product/</guid>
       <description>You can get high speed, numerical calculation output without having to resort to bug-prone, highly tuned and optimised, unreadable code.</description>
     </item>
-    
     <item>
       <title>Meetings and agendas</title>
       <link>https://stewart123579.github.io/blog/posts/meetings-and-agendas/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/meetings-and-agendas/</guid>
       <description>&lt;p&gt;I have simple rules for meetings.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>1:1s as a people leader</title>
       <link>https://stewart123579.github.io/blog/posts/1-1s-as-a-people-leader/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/1-1s-as-a-people-leader/</guid>
       <description>&lt;p&gt;I was doing some mentoring this past weekend and staff issues came up - as they
 always do.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Quickly find a number between two others</title>
       <link>https://stewart123579.github.io/blog/posts/quickly-find-a-number-between-two-others/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/quickly-find-a-number-between-two-others/</guid>
       <description>How quickly can you find a number between 27/97 and 27/98? Without using a calculator?</description>
     </item>
-    
     <item>
       <title>Removing functions and variables in lisp</title>
       <link>https://stewart123579.github.io/blog/posts/clues/removing-functions-and-variables-in-lisp/</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/clues/removing-functions-and-variables-in-lisp/</guid>
       <description>How to remove definitions and why the lisp namespaces are preferable to other languages&amp;rsquo; approaches.</description>
     </item>
-    
     <item>
       <title>Listing page categories in Hugo</title>
       <link>https://stewart123579.github.io/blog/posts/code/listing-page-categories-in-hugo/</link>
       <pubDate>Sat, 04 Jun 2022 00:00:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/code/listing-page-categories-in-hugo/</guid>
       <description>&lt;p&gt;I wanted to list the categories of a blog post, but couldn&amp;rsquo;t find a simple solution.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>TIL: !clhs at DuckDuckGo</title>
       <link>https://stewart123579.github.io/blog/posts/code/til-clhs-at-duckduckgo/</link>
       <pubDate>Thu, 26 May 2022 08:41:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/code/til-clhs-at-duckduckgo/</guid>
       <description>&lt;p&gt;Use DuckDuckGo to search the &lt;a href=&#34;https://duckduckgo.com/?t=ffab&amp;amp;q=common+lisp+hyperspec&amp;amp;atb=v310-1&amp;amp;ia=web&#34;&gt;Common Lisp Hyperspec&lt;/a&gt; with &lt;code&gt;!clhs TERM&lt;/code&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>My screensaver</title>
       <link>https://stewart123579.github.io/blog/posts/code/my-screensaver/</link>
       <pubDate>Wed, 25 May 2022 17:57:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/code/my-screensaver/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been asked what my screensaver means&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Counting tagged pages in Hugo</title>
       <link>https://stewart123579.github.io/blog/posts/code/counting-tagged-pages-in-hugo/</link>
       <pubDate>Mon, 23 May 2022 18:15:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/code/counting-tagged-pages-in-hugo/</guid>
       <description>&lt;p&gt;I wanted to count the number of pages tagged &lt;code&gt;100daysToOffload&lt;/code&gt; but couldn&amp;rsquo;t
 find a simple solution.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Including equations in my notes</title>
       <link>https://stewart123579.github.io/blog/posts/emacs/including-equations-in-my-notes/</link>
       <pubDate>Fri, 20 May 2022 19:18:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/emacs/including-equations-in-my-notes/</guid>
       <description>&lt;p&gt;Including beautifully rendered equations is easy in Org Mode.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Money laundering, buying elections and housing affordability</title>
       <link>https://stewart123579.github.io/blog/posts/money-laundering-buying-elections-and-housing-affordability/</link>
       <pubDate>Thu, 19 May 2022 17:40:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/money-laundering-buying-elections-and-housing-affordability/</guid>
-      <description>How do you buy a federal election? Through money laundering, by confusing correlation and causation and mindlessly parroting collective wisdom around housing affordability.
-View the post at LinkedIn, or Vifortech Solutions - Blog.</description>
+      <description>&lt;p&gt;How do you buy a federal election? Through money laundering, by confusing
+correlation and causation and mindlessly parroting collective wisdom around
+housing affordability.&lt;/p&gt;
+&lt;p&gt;View the post at &lt;a href=&#34;https://www.linkedin.com/posts/stewart-v-wright_money-laundering-buying-elections-and-housing-activity-6931780143459811328-CsUt&#34;&gt;LinkedIn&lt;/a&gt;, or &lt;a href=&#34;https://blog.vifortech.com/posts/money-laundering-buying-elections-and-housing-affordability/&#34;&gt;Vifortech Solutions - Blog&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Update list of local projects for Quicklisp</title>
       <link>https://stewart123579.github.io/blog/posts/clues/quicklisp/update-list-of-local-projects/</link>
       <pubDate>Tue, 10 May 2022 09:55:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/clues/quicklisp/update-list-of-local-projects/</guid>
       <description>&lt;p&gt;I always forget how to update the list of local projects for Quicklisp.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Leaders versus managers</title>
       <link>https://stewart123579.github.io/blog/posts/leaders-versus-managers/</link>
       <pubDate>Mon, 09 May 2022 20:49:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/leaders-versus-managers/</guid>
       <description>&lt;p&gt;Leaders inspire you to follow; their actions make you aspire to be like them.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Show files ignored by git</title>
       <link>https://stewart123579.github.io/blog/posts/code/show-files-ignored-by-git/</link>
       <pubDate>Mon, 09 May 2022 20:18:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/code/show-files-ignored-by-git/</guid>
       <description>&lt;p&gt;Sometimes you just want to see the files that are being ignored by &lt;a href=&#34;https://git-scm.com/&#34;&gt;git&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Delete files not being tracked by git</title>
       <link>https://stewart123579.github.io/blog/posts/code/delete-files-not-being-tracked-by-git/</link>
       <pubDate>Sat, 07 May 2022 15:46:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/code/delete-files-not-being-tracked-by-git/</guid>
       <description>&lt;p&gt;Removing untracked files from the working tree is easy with &lt;code&gt;git-clean&lt;/code&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Amend git commits to remove added files</title>
       <link>https://stewart123579.github.io/blog/posts/code/commit-amend-remove-added/</link>
       <pubDate>Thu, 05 May 2022 18:52:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/code/commit-amend-remove-added/</guid>
       <description>&lt;p&gt;Removing files you just added and committed to git is easy with &lt;code&gt;git commit --amend&lt;/code&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Pretentious? Moi?</title>
       <link>https://stewart123579.github.io/blog/posts/pretentious-moi/</link>
       <pubDate>Thu, 05 May 2022 18:52:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/pretentious-moi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Getting yasnippet to work with Org mode</title>
       <link>https://stewart123579.github.io/blog/posts/emacs/yasnippet-and-orgmode/</link>
       <pubDate>Thu, 05 May 2022 18:24:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/emacs/yasnippet-and-orgmode/</guid>
-      <description>There are various discussions around the conflict between Org Mode and yasnippet and how to fix it.
-This is how I got them to play nicely together.
-You can read about my other Emacs configurations .
-(use-package yasnippet :init (defun yas/org-very-safe-expand () (let ((yas/fallback-behavior &amp;#39;return-nil)) (yas/expand))) :hook ((emacs-lisp-mode . yas-minor-mode) (python-mode . yas-minor-mode) (org-mode . yas-minor-mode) (org-mode . (lambda () (make-variable-buffer-local &amp;#39;yas/trigger-key) (setq yas/trigger-key [tab]) (add-to-list &amp;#39;org-tab-first-hook &amp;#39;yas/org-very-safe-expand) (define-key yas/keymap [tab] &amp;#39;yas/next-field)))) :config (setq-default yas-snippet-dirs `(,(expand-file-name &amp;#34;snippets/&amp;#34; user-emacs-directory))) (yas-reload-all)) GNU Emacs 28.</description>
+      <description>&lt;p&gt;There are various discussions around the conflict between &lt;a href=&#34;https://stewart123579.github.io/blog/tags/orgmode/&#34;&gt;Org Mode&lt;/a&gt; and &lt;a href=&#34;https://github.com/joaotavora/yasnippet&#34;&gt;yasnippet&lt;/a&gt;
+and how to &lt;a href=&#34;https://orgmode.org/manual/Conflicts.html&#34;&gt;fix&lt;/a&gt; it.&lt;/p&gt;
+&lt;p&gt;This is how &lt;strong&gt;I&lt;/strong&gt; got them to play nicely together.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;You can read about my other &lt;a href=&#34;https://stewart123579.github.io/blog/blog/tags/emacs-config/&#34;&gt; Emacs configurations &lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-emacs-lisp&#34; data-lang=&#34;emacs-lisp&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;(&lt;span style=&#34;color:#a2f&#34;&gt;use-package&lt;/span&gt; &lt;span style=&#34;color:#b8860b&#34;&gt;yasnippet&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a2f&#34;&gt;:init&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  (&lt;span style=&#34;color:#a2f&#34;&gt;defun&lt;/span&gt; &lt;span style=&#34;color:#b8860b&#34;&gt;yas/org-very-safe-expand&lt;/span&gt; ()
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    (&lt;span style=&#34;color:#a2f&#34;&gt;let&lt;/span&gt; ((&lt;span style=&#34;color:#b8860b&#34;&gt;yas/fallback-behavior&lt;/span&gt; &lt;span style=&#34;color:#b8860b&#34;&gt;&amp;#39;return-nil&lt;/span&gt;)) (&lt;span style=&#34;color:#b8860b&#34;&gt;yas/expand&lt;/span&gt;)))
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a2f&#34;&gt;:hook&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  ((&lt;span style=&#34;color:#b8860b&#34;&gt;emacs-lisp-mode&lt;/span&gt; &lt;span style=&#34;color:#666&#34;&gt;.&lt;/span&gt; &lt;span style=&#34;color:#b8860b&#34;&gt;yas-minor-mode&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   (&lt;span style=&#34;color:#b8860b&#34;&gt;python-mode&lt;/span&gt; &lt;span style=&#34;color:#666&#34;&gt;.&lt;/span&gt; &lt;span style=&#34;color:#b8860b&#34;&gt;yas-minor-mode&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   (&lt;span style=&#34;color:#b8860b&#34;&gt;org-mode&lt;/span&gt; &lt;span style=&#34;color:#666&#34;&gt;.&lt;/span&gt; &lt;span style=&#34;color:#b8860b&#34;&gt;yas-minor-mode&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   (&lt;span style=&#34;color:#b8860b&#34;&gt;org-mode&lt;/span&gt; &lt;span style=&#34;color:#666&#34;&gt;.&lt;/span&gt; (&lt;span style=&#34;color:#a2f&#34;&gt;lambda&lt;/span&gt; ()
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                 (&lt;span style=&#34;color:#00a000&#34;&gt;make-variable-buffer-local&lt;/span&gt; &lt;span style=&#34;color:#b8860b&#34;&gt;&amp;#39;yas/trigger-key&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                 (&lt;span style=&#34;color:#a2f&#34;&gt;setq&lt;/span&gt; &lt;span style=&#34;color:#b8860b&#34;&gt;yas/trigger-key&lt;/span&gt; [&lt;span style=&#34;color:#b8860b&#34;&gt;tab&lt;/span&gt;])
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                 (&lt;span style=&#34;color:#b8860b&#34;&gt;add-to-list&lt;/span&gt; &lt;span style=&#34;color:#b8860b&#34;&gt;&amp;#39;org-tab-first-hook&lt;/span&gt; &lt;span style=&#34;color:#b8860b&#34;&gt;&amp;#39;yas/org-very-safe-expand&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                 (&lt;span style=&#34;color:#00a000&#34;&gt;define-key&lt;/span&gt; &lt;span style=&#34;color:#b8860b&#34;&gt;yas/keymap&lt;/span&gt; [&lt;span style=&#34;color:#b8860b&#34;&gt;tab&lt;/span&gt;] &lt;span style=&#34;color:#b8860b&#34;&gt;&amp;#39;yas/next-field&lt;/span&gt;))))
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a2f&#34;&gt;:config&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  (&lt;span style=&#34;color:#a2f&#34;&gt;setq-default&lt;/span&gt; &lt;span style=&#34;color:#b8860b&#34;&gt;yas-snippet-dirs&lt;/span&gt; &lt;span style=&#34;color:#666&#34;&gt;`&lt;/span&gt;(&lt;span style=&#34;color:#666&#34;&gt;,&lt;/span&gt;(&lt;span style=&#34;color:#00a000&#34;&gt;expand-file-name&lt;/span&gt; &lt;span style=&#34;color:#b44&#34;&gt;&amp;#34;snippets/&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#b8860b&#34;&gt;user-emacs-directory&lt;/span&gt;)))
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  (&lt;span style=&#34;color:#b8860b&#34;&gt;yas-reload-all&lt;/span&gt;))
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;code&gt;GNU Emacs 28.1&lt;/code&gt; &lt;code&gt;Org mode version 9.5.3&lt;/code&gt; &lt;code&gt;YASnippet 0.14.0&lt;/code&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Loops in Lisp</title>
       <link>https://stewart123579.github.io/blog/posts/clues/loops-in-lisp/</link>
       <pubDate>Tue, 03 May 2022 21:55:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/clues/loops-in-lisp/</guid>
       <description>&lt;p&gt;There are two type of lisp coders. Those that &lt;strong&gt;love&lt;/strong&gt; the &lt;code&gt;loop&lt;/code&gt; macro and those
 that don&amp;rsquo;t.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Find most recently changed files of a type</title>
       <link>https://stewart123579.github.io/blog/posts/code/find-most-recently-changed-files-of-a-type/</link>
       <pubDate>Fri, 29 Apr 2022 17:09:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/code/find-most-recently-changed-files-of-a-type/</guid>
       <description>&lt;p&gt;How would you find the &lt;code&gt;.org&lt;/code&gt; (or &lt;code&gt;.pdf&lt;/code&gt;, &lt;code&gt;.doc&lt;/code&gt;, &amp;hellip;) file you created the most
 recently?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>This is my blog</title>
       <link>https://stewart123579.github.io/blog/posts/my-blog/</link>
       <pubDate>Thu, 28 Apr 2022 18:57:00 +1000</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/my-blog/</guid>
       <description>&lt;p&gt;This is my blog.  The design isn&amp;rsquo;t revolutionary.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>finance on SVW Thunk&#39;d</title>
+    <title>Finance on SVW Thunk&#39;d</title>
     <link>https://stewart123579.github.io/blog/categories/finance/</link>
-    <description>Recent content in finance on SVW Thunk&#39;d</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Finance on SVW Thunk&#39;d</description>
+    <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Oct 2017 10:20:47 +1100</lastBuildDate><atom:link href="https://stewart123579.github.io/blog/categories/finance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Oct 2017 10:20:47 +1100</lastBuildDate>
+    <atom:link href="https://stewart123579.github.io/blog/categories/finance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The flu as an analogy for risk management</title>
       <link>https://stewart123579.github.io/blog/posts/flu-risk-management/</link>
       <pubDate>Thu, 05 Oct 2017 10:20:47 +1100</pubDate>
-      
       <guid>https://stewart123579.github.io/blog/posts/flu-risk-management/</guid>
-      <description>The flu as an analogy for risk management at Vifortech Solutions - Blog</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blog.vifortech.com/posts/flu-risk-management/&#34;&gt;The flu as an analogy for risk management&lt;/a&gt; at &lt;a href=&#34;https://blog.vifortech.com&#34;&gt;Vifortech Solutions - Blog&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
